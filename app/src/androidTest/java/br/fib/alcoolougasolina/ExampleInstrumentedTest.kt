@@ -1,4 +1,4 @@
-package br.fib.gasolinaoualcool
+package br.fib.alcoolougasolina
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("br.fib.gasolinaoualcool", appContext.packageName)
+        assertEquals("br.fib.alcoolougasolina", appContext.packageName)
     }
 }

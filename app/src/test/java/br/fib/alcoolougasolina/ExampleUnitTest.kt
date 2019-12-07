@@ -1,4 +1,4 @@
-package br.fib.gasolinaoualcool
+package br.fib.alcoolougasolina
 
 import org.junit.Test
 
