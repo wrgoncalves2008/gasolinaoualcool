@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Alcool ou Gasolina</string>
+    <string name="title_activity_resultado">ResultadoActivity</string>
 </resources>
